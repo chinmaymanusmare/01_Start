@@ -1,2 +1,2 @@
 # 01_Start
-Authon : Chinmay Manusmare
+Author : Chinmay Manusmare
